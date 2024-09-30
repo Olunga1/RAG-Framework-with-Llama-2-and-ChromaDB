@@ -39,9 +39,7 @@ This project implements a Retrieval-Augmented Generation (RAG) framework for doc
    - Place your PDF file in the project directory.
 
 2. Run the main script:
-   ```
-   python main.py
-   ```
+
 
 3. Enter your questions when prompted.
 
